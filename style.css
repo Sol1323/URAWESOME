@@ -1,12 +1,14 @@
 #customRange3 {
   width: 90%;
   margin: 0 auto;
+  color: #e9d758;
 }
 
 .rangeText {
   text-align: center;
   display: block;
   padding-top: 30px;
+  font-type:
 }
 
 .rangeWrapper {
@@ -16,6 +18,8 @@
   margin: 0 auto;
   padding-top: 10px;
 }
+
+
 
 /*yellow color for the app is #e9d758
 background grey  color is #f0f0f0
